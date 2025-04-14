@@ -1,4 +1,4 @@
-![Тестовое изображение](file:///C:/Users/user/Desktop/dogs.png)
+![Тестовое изображение]((https://test-pentagon-animals.netlify.app/))
 
 # Тестовое HTML/CSS/JavaScript
 <p> Картинки в форме пентагон.</p>
