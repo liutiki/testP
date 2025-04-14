@@ -1,4 +1,5 @@
-<img />
+<img src="" width="300px" alt="tets">
+
 # Тестовое HTML/CSS/JavaScript
 <p> Картинки в форме пентагон.</p>
 <p>Приближение при наведении.</p>
