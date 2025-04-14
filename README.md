@@ -1,4 +1,4 @@
-<img src="file:///C:/Users/user/Desktop/dogs.png" width="300px" alt="tets">
+![Тестовое изображение](file:///C:/Users/user/Desktop/dogs.png)
 
 # Тестовое HTML/CSS/JavaScript
 <p> Картинки в форме пентагон.</p>
