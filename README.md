@@ -1,4 +1,4 @@
-![Тестовое изображение]((file:///C:/Users/user/Desktop/dogs.png))
+![Тестовое изображение](https://github.com/liutiki/testP/blob/main/dogs.png)
 
 # Тестовое HTML/CSS/JavaScript
 <p> Картинки в форме пентагон.</p>
